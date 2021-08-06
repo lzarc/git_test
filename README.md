@@ -1,0 +1,1 @@
+This is Kino's first git project
